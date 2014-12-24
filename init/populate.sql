@@ -4,6 +4,7 @@
 # Example table population scripts
 ########################################
 
+use mysqlcrashcourse;
 
 ##########################
 # Populate customers table
