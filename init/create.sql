@@ -4,8 +4,6 @@
 # Example table creation scripts
 ########################################
 
-use mysqlcrashcourse;
-
 ########################
 # Create customers table
 ########################
